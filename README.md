@@ -32,12 +32,9 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+I initially had some difficulties pushing the code to my github repository. I also did not have enough time to have a fully featured settings page.
 
 ## Credits
-
-List an 3rd party libraries, icons, graphics, or other assets you used in your app.
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
 
